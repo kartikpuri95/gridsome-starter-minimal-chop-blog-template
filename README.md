@@ -20,3 +20,8 @@ run npm install
 setup gridsome
 gridsome develop
 ```
+## Screenshots
+
+![Chopcoding](./screenshots/1.png)
+![Chopcoding](./screenshots/2.png)
+![Chopcoding](./screenshots/3.png)
