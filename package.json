@@ -1,0 +1,25 @@
+{
+  "name": "chopcoding_blog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/plugin-google-analytics": "^0.1.0",
+    "@gridsome/remark-prismjs": "^0.2.0",
+    "@gridsome/source-filesystem": "^0.6.0",
+    "@gridsome/transformer-remark": "^0.3.0",
+    "gridsome": "^0.7.0",
+    "vue-instagram": "^3.0.0",
+    "vue-instagram-embed": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-gridsome": "^1.4.1",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0",
+    "vue-eslint-parser": "^7.0.0"
+  }
+}
